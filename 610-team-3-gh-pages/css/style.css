@@ -1,0 +1,21 @@
+.calcUser {
+    text-align: center;
+    font-size: 24px;
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: rgb(245, 0, 17);
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #3a18d1;
+    transition: ease-out 0.3s;
+    outline: none;
+  }
+  .calcUser:hover{
+    box-shadow: inset 100px 0 0 0 #3a18d1;
+    cursor: pointer;
+    color: #000;
+  }
+  .showResult {
+    text-align: center;
+    font-size: 24px;

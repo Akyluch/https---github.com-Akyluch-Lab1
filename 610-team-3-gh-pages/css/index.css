@@ -1771,4 +1771,15 @@ textarea {
     width: 100px;
     gap: 20px;
   }
+
+}
+.calcUser {
+  text-align: center;
+  font-size: 24px;
+  
+}
+.showResult {
+  text-align: center;
+  font-size: 24px;
+  
 }
